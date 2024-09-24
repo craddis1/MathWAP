@@ -1,11 +1,14 @@
 # MathWAP
 
-Companion repository to  [*CosmoWAP*](https://github.com/craddis1/CosmoWAP)
-\mathematica_routines 
+Companion repository to  [*CosmoWAP*](https://github.com/craddis1/CosmoWAP) 
 
-The_bispectrum.nb allows for the computation of wide separation terms for some given Fourier kernels (defined in kernels.nb). 2nd order wide-separation effects can be slow to compute due to huge number of terms involved.
+MathWAP contains Mathematica notebooks that computes the fourier power spectrum and bispectrum including contributions (up to second order) from wide-separation (WS) and relatativistic (GR) efects as well as primoridal non-Gaussianity (PNG).
 
-- kernels.nb: Defines 1st and 2nd order kernels
+## Contents
+
+### Kernels.ipynb
+
+Defines redshift space kernels
 
 - expansions.nb: Defines series expansions for the wide angle and radial redshift parts
 
@@ -16,3 +19,11 @@ The_bispectrum.nb allows for the computation of wide separation terms for some g
 Outputs are stored from mathematica in .json files in mathematica_expr - also read_mathematica.ipynb can be used for converting from mathematica to python formatting.
 
 Terms for other kernels can also be provided or computed from the The_bispectrum.nb - format can also be flexible.
+
+
+## Usage
+
+
+Based on work in [arXiv:2407.00168](https://arxiv.org/abs/2407.00168) 
+
+Also for PNG stuff please refer too: arXiv:24xx.xxxx
