@@ -1,0 +1,1 @@
+"(D1^2*Pk*((-2*f*sigma*(f*(3 + sigma^2) + sigma^2*(b1 + xb1)))\/E^(sigma^2\/2) + Sqrt[2*Pi]*(3*f^2 + b1*sigma^4*xb1 + f*sigma^2*(b1 + xb1))*Erf[sigma\/Sqrt[2]]))\/(2*sigma^5)"

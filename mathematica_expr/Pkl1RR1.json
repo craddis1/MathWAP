@@ -1,0 +1,1 @@
+"((I\/35)*D1*(Dd*f*(-1 + 2*t)*(3*f*(8*Pk + 5*k1*Pkd) + 7*(4*Pk + 3*k1*Pkd)*xb1) + 7*b1*(Dd*(-1 + 2*t)*(4*f*Pk + 3*f*k1*Pkd + 5*k1*Pkd*xb1) + D1*(-1 + t)*(4*fd*Pk + 3*fd*k1*Pkd + 5*k1*Pkd*xbd1)) + D1*(3*f*fd*(8*Pk + 5*k1*Pkd)*(-1 + 2*t) + 7*(4*fd*Pk + 5*bd1*k1*Pkd + 3*fd*k1*Pkd)*t*xb1 + 7*f*(4*Pk + 3*k1*Pkd)*(bd1*t + (-1 + t)*xbd1))))\/(d*k1)"

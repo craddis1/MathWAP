@@ -1,0 +1,1 @@
+"(2*D1*(Dd*(-1 + 2*t)*(3*f*(Pk - 2*k1*Pkd)*(gr1 - xgr1) + 7*(2*Pk - k1*Pkd)*(gr1*xb1 - b1*xgr1)) + D1*(3*fd*(Pk - 2*k1*Pkd)*(gr1*(-1 + t) - t*xgr1) + 3*f*(Pk - 2*k1*Pkd)*(grd1*t + xgrd1 - t*xgrd1) + 7*(2*Pk - k1*Pkd)*(grd1*t*xb1 + gr1*(-1 + t)*xbd1 - bd1*t*xgr1 + b1*xgrd1 - b1*t*xgrd1))))\/(21*d*k1^2)"

@@ -1,0 +1,1 @@
+"-1\/15*(D1*(Pk + k1*Pkd)*(Dd*(-1 + 2*t)*(5*gr1*xb1 + 3*f*(gr1 - xgr1) - 5*b1*xgr1) + D1*(3*fd*gr1*(-1 + t) - 3*fd*t*xgr1 + 3*f*(grd1*t + xgrd1 - t*xgrd1) + 5*(grd1*t*xb1 + gr1*(-1 + t)*xbd1 - bd1*t*xgr1 + b1*xgrd1 - b1*t*xgrd1))))\/(d*k1^2)"

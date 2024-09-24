@@ -1,0 +1,1 @@
+"(-5*D1^2*Pk*(2*sigma*(3*gr2*sigma^2*xb1 + 9*gr1*xgr1 + 2*gr1*sigma^2*xgr1 + 3*b1*sigma^2*xgr2 + f*(9 + 2*sigma^2)*(gr2 + xgr2)) + E^(sigma^2\/2)*Sqrt[2*Pi]*(gr2*sigma^2*(-3 + sigma^2)*xb1 - 9*gr1*xgr1 + gr1*sigma^2*xgr1 - 3*b1*sigma^2*xgr2 + b1*sigma^4*xgr2 + f*(-9 + sigma^2)*(gr2 + xgr2))*Erf[sigma\/Sqrt[2]]))\/(4*E^(sigma^2\/2)*k1^2*sigma^5)"

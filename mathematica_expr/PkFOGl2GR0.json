@@ -1,0 +1,1 @@
+"(-5*D1^2*Pk*(2*sigma*(f^2*(45 + 12*sigma^2 + 2*sigma^4) + 3*b1*sigma^4*xb1 + f*sigma^2*(9 + 2*sigma^2)*(b1 + xb1)) + E^(sigma^2\/2)*Sqrt[2*Pi]*(3*f^2*(-15 + sigma^2) + b1*sigma^4*(-3 + sigma^2)*xb1 + f*sigma^2*(-9 + sigma^2)*(b1 + xb1))*Erf[sigma\/Sqrt[2]]))\/(4*E^(sigma^2\/2)*sigma^7)"
