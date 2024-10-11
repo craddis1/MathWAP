@@ -4,7 +4,7 @@ Companion repository to  [*CosmoWAP*](https://github.com/craddis1/CosmoWAP)
 
 MathWAP contains Mathematica notebooks that computes the fourier power spectrum and bispectrum including contributions (up to second order) from wide-separation (WS) and relatativistic (GR) efects as well as primoridal non-Gaussianity (PNG).
 
-See [*Documentation*](https://cosmowap.readthedocs.io/en/latest/overview.html) for full doumentation.
+For full documnetation see [*Docs*](https://cosmowap.readthedocs.io/en/latest/overview.html).
 
 ## Contents
 
