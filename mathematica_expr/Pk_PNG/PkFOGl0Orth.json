@@ -1,0 +1,1 @@
+"(D1^2*fNL*k1*Pk*(-2*f*sigma*(b01 + xb01) + E^(sigma^2\/2)*Sqrt[2*Pi]*((f + b1*sigma^2)*xb01 + b01*(f + sigma^2*xb1))*Erf[sigma\/Sqrt[2]]))\/(2*E^(sigma^2\/2)*Mk1*sigma^3)"
