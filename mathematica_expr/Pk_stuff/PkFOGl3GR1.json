@@ -1,1 +1,0 @@
-"(((-7*I)\/4)*D1^2*Pk*(2*sigma*(f*(75 + 16*sigma^2 + 2*sigma^4)*(gr1 - xgr1) + sigma^2*(15 + 2*sigma^2)*(gr1*xb1 - b1*xgr1)) + 3*E^(sigma^2\/2)*Sqrt[2*Pi]*(f*(-25 + 3*sigma^2)*(gr1 - xgr1) + sigma^2*(-5 + sigma^2)*(gr1*xb1 - b1*xgr1))*Erf[sigma\/Sqrt[2]]))\/(E^(sigma^2\/2)*k1*sigma^7)"

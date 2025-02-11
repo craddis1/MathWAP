@@ -1,1 +1,0 @@
-"((3*I)*D1^2*f*(-2*f*sigma*(-(k1*Pkd*(15 + 2*sigma^2)) + 2*Pk*(30 + 7*sigma^2 + sigma^4))*(-1 + 2*t) - 2*sigma^3*(-3*k1*Pkd + 2*Pk*(3 + sigma^2))*(b1*(-1 + t) + t*xb1) + E^(sigma^2\/2)*Sqrt[2*Pi]*(-3*f*(2*Pk*(-10 + sigma^2) - k1*Pkd*(-5 + sigma^2))*(-1 + 2*t) + sigma^2*(6*Pk + k1*Pkd*(-3 + sigma^2))*(b1*(-1 + t) + t*xb1))*Erf[sigma\/Sqrt[2]]))\/(d*E^(sigma^2\/2)*k1*sigma^7)"
